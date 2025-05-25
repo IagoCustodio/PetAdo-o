@@ -1,5 +1,5 @@
 ### Page Login
-<p>Pagina de login, baseada na aula do Markzuel </p>
+<p>Pagina de login</p>
 
 <div>
 <a href="https://page-login-omega.vercel.app/">
